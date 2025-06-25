@@ -1,0 +1,9 @@
+# requirements.txt
+fastapi
+uvicorn
+pymongo
+python-dotenv
+geopy
+requests
+langgraph
+pydantic
