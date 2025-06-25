@@ -1,4 +1,3 @@
-# requirements.txt
 fastapi
 uvicorn
 pymongo
@@ -7,3 +6,6 @@ geopy
 requests
 langgraph
 pydantic
+openrouteservice
+gunicorn
+orjson
